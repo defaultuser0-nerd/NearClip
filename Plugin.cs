@@ -15,7 +15,7 @@ namespace NearClip
 			
             GorillaTagger.OnPlayerSpawned(delegate
             {
-	            Camera.main.nearClipPlane = Mathf.Clamp(ClippingAmout.Value, 0.01f, 0.9f);
+	            Camera.main.nearClipPlane = ClippingAmout.Value;
             });
 		}
 	}
