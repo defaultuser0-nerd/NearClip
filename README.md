@@ -1,6 +1,8 @@
 # NearClip
 Adds more near clip to the main camera, so cosmetics don't cover your vision
 
+You can also change the near clip as needed in the config.
+
 
 #### **Requirements**
  - [BepInEx](<https://github.com/BepInEx/BepInEx/releases/latest>)
